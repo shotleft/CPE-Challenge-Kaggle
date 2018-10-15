@@ -1,0 +1,824 @@
+﻿PROJ;PROJ Description
+esri:102006;Alaska Albers Equal Area Conic
+esri:102007;Hawaii Albers Equal Area Conic
+esri:102121;NAD 1983 Michigan GeoRef Feet US
+esri:102123;NAD 1983 Michigan GeoRef Meters
+esri:102229;NAD 1983 HARN StatePlane Alabama East FIPS 0101
+esri:102230;NAD 1983 HARN StatePlane Alabama West FIPS 0102
+esri:102241;NAD 1983 HARN StatePlane California I FIPS 0401
+esri:102242;NAD 1983 HARN StatePlane California II FIPS 0402
+esri:102243;NAD 1983 HARN StatePlane California III FIPS 0403
+esri:102244;NAD 1983 HARN StatePlane California IV FIPS 0404
+esri:102245;NAD 1983 HARN StatePlane California V FIPS 0405
+esri:102246;NAD 1983 HARN StatePlane California VI FIPS 0406
+esri:102248;NAD 1983 HARN StatePlane Arizona East FIPS 0201
+esri:102249;NAD 1983 HARN StatePlane Arizona Central FIPS 0202
+esri:102250;NAD 1983 HARN StatePlane Arizona West FIPS 0203
+esri:102251;NAD 1983 HARN StatePlane Arkansas North FIPS 0301
+esri:102252;NAD 1983 HARN StatePlane Arkansas South FIPS 0302
+esri:102253;NAD 1983 HARN StatePlane Colorado North FIPS 0501
+esri:102254;NAD 1983 HARN StatePlane Colorado Central FIPS 0502
+esri:102255;NAD 1983 HARN StatePlane Colorado South FIPS 0503
+esri:102256;NAD 1983 HARN StatePlane Connecticut FIPS 0600
+esri:102257;NAD 1983 HARN StatePlane Delaware FIPS 0700
+esri:102258;NAD 1983 HARN StatePlane Florida East FIPS 0901
+esri:102259;NAD 1983 HARN StatePlane Florida West FIPS 0902
+esri:102260;NAD 1983 HARN StatePlane Florida North FIPS 0903
+esri:102261;NAD 1983 HARN StatePlane Hawaii 1 FIPS 5101
+esri:102262;NAD 1983 HARN StatePlane Hawaii 2 FIPS 5102
+esri:102263;NAD 1983 HARN StatePlane Hawaii 3 FIPS 5103
+esri:102264;NAD 1983 HARN StatePlane Hawaii 4 FIPS 5104
+esri:102265;NAD 1983 HARN StatePlane Hawaii 5 FIPS 5105
+esri:102266;NAD 1983 HARN StatePlane Georgia East FIPS 1001
+esri:102267;NAD 1983 HARN StatePlane Georgia West FIPS 1002
+esri:102268;NAD 1983 HARN StatePlane Idaho East FIPS 1101
+esri:102269;NAD 1983 HARN StatePlane Idaho Central FIPS 1102
+esri:102270;NAD 1983 HARN StatePlane Idaho West FIPS 1103
+esri:102271;NAD 1983 HARN StatePlane Illinois East FIPS 1201
+esri:102272;NAD 1983 HARN StatePlane Illinois West FIPS 1202
+esri:102273;NAD 1983 HARN StatePlane Indiana East FIPS 1301
+esri:102274;NAD 1983 HARN StatePlane Indiana West FIPS 1302
+esri:102277;NAD 1983 HARN StatePlane Kansas North FIPS 1501
+esri:102278;NAD 1983 HARN StatePlane Kansas South FIPS 1502
+esri:102279;NAD 1983 HARN StatePlane Kentucky North FIPS 1601
+esri:102280;NAD 1983 HARN StatePlane Kentucky South FIPS 1602
+esri:102281;NAD 1983 HARN StatePlane Louisiana North FIPS 1701
+esri:102282;NAD 1983 HARN StatePlane Louisiana South FIPS 1702
+esri:102283;NAD 1983 HARN StatePlane Maine East FIPS 1801
+esri:102284;NAD 1983 HARN StatePlane Maine West FIPS 1802
+esri:102285;NAD 1983 HARN StatePlane Maryland FIPS 1900
+esri:102286;NAD 1983 HARN StatePlane Massachusetts Mainland FIPS 2001
+esri:102287;NAD 1983 HARN StatePlane Massachusetts Island FIPS 2002
+esri:102288;NAD 1983 HARN StatePlane Michigan North FIPS 2111
+esri:102289;NAD 1983 HARN StatePlane Michigan Central FIPS 2112
+esri:102290;NAD 1983 HARN StatePlane Michigan South FIPS 2113
+esri:102291;NAD 1983 HARN StatePlane Minnesota North FIPS 2201
+esri:102292;NAD 1983 HARN StatePlane Minnesota Central FIPS 2202
+esri:102293;NAD 1983 HARN StatePlane Minnesota South FIPS 2203
+esri:102294;NAD 1983 HARN StatePlane Mississippi East FIPS 2301
+esri:102295;NAD 1983 HARN StatePlane Mississippi West FIPS 2302
+esri:102296;NAD 1983 HARN StatePlane Missouri East FIPS 2401
+esri:102297;NAD 1983 HARN StatePlane Missouri Central FIPS 2402
+esri:102298;NAD 1983 HARN StatePlane Missouri West FIPS 2403
+esri:102300;NAD 1983 HARN StatePlane Montana FIPS 2500
+esri:102304;NAD 1983 HARN StatePlane Nebraska FIPS 2600
+esri:102307;NAD 1983 HARN StatePlane Nevada East FIPS 2701
+esri:102308;NAD 1983 HARN StatePlane Nevada Central FIPS 2702
+esri:102309;NAD 1983 HARN StatePlane Nevada West FIPS 2703
+esri:102310;NAD 1983 HARN StatePlane New Hampshire FIPS 2800
+esri:102311;NAD 1983 HARN StatePlane New Jersey FIPS 2900
+esri:102312;NAD 1983 HARN StatePlane New Mexico East FIPS 3001
+esri:102313;NAD 1983 HARN StatePlane New Mexico Central FIPS 3002
+esri:102314;NAD 1983 HARN StatePlane New Mexico West FIPS 3003
+esri:102315;NAD 1983 HARN StatePlane New York East FIPS 3101
+esri:102316;NAD 1983 HARN StatePlane New York Central FIPS 3102
+esri:102317;NAD 1983 HARN StatePlane New York West FIPS 3103
+esri:102318;NAD 1983 HARN StatePlane New York Long Island FIPS 3104
+esri:102320;NAD 1983 HARN StatePlane North Dakota North FIPS 3301
+esri:102321;NAD 1983 HARN StatePlane North Dakota South FIPS 3302
+esri:102322;NAD 1983 HARN StatePlane Ohio North FIPS 3401
+esri:102323;NAD 1983 HARN StatePlane Ohio South FIPS 3402
+esri:102324;NAD 1983 HARN StatePlane Oklahoma North FIPS 3501
+esri:102325;NAD 1983 HARN StatePlane Oklahoma South FIPS 3502
+esri:102326;NAD 1983 HARN StatePlane Oregon North FIPS 3601
+esri:102327;NAD 1983 HARN StatePlane Oregon South FIPS 3602
+esri:102330;NAD 1983 HARN StatePlane Rhode Island FIPS 3800
+esri:102334;NAD 1983 HARN StatePlane South Dakota North FIPS 4001
+esri:102335;NAD 1983 HARN StatePlane South Dakota South FIPS 4002
+esri:102336;NAD 1983 HARN StatePlane Tennessee FIPS 4100
+esri:102337;NAD 1983 HARN StatePlane Texas North FIPS 4201
+esri:102338;NAD 1983 HARN StatePlane Texas North Central FIPS 4202
+esri:102339;NAD 1983 HARN StatePlane Texas Central FIPS 4203
+esri:102340;NAD 1983 HARN StatePlane Texas South Central FIPS 4204
+esri:102341;NAD 1983 HARN StatePlane Texas South FIPS 4205
+esri:102342;NAD 1983 HARN StatePlane Utah North FIPS 4301
+esri:102343;NAD 1983 HARN StatePlane Utah Central FIPS 4302
+esri:102344;NAD 1983 HARN StatePlane Utah South FIPS 4303
+esri:102345;NAD 1983 HARN StatePlane Vermont FIPS 4400
+esri:102346;NAD 1983 HARN StatePlane Virginia North FIPS 4501
+esri:102347;NAD 1983 HARN StatePlane Virginia South FIPS 4502
+esri:102348;NAD 1983 HARN StatePlane Washington North FIPS 4601
+esri:102349;NAD 1983 HARN StatePlane Washington South FIPS 4602
+esri:102350;NAD 1983 HARN StatePlane West Virginia North FIPS 4701
+esri:102351;NAD 1983 HARN StatePlane West Virginia South FIPS 4702
+esri:102352;NAD 1983 HARN StatePlane Wisconsin North FIPS 4801
+esri:102353;NAD 1983 HARN StatePlane Wisconsin Central FIPS 4802
+esri:102354;NAD 1983 HARN StatePlane Wisconsin South FIPS 4803
+esri:102355;NAD 1983 HARN StatePlane Wyoming East FIPS 4901
+esri:102356;NAD 1983 HARN StatePlane Wyoming East Central FIPS 4902
+esri:102357;NAD 1983 HARN StatePlane Wyoming West Central FIPS 4903
+esri:102358;NAD 1983 HARN StatePlane Wyoming West FIPS 4904
+esri:102629;NAD 1983 StatePlane Alabama East FIPS 0101 Feet
+esri:102630;NAD 1983 StatePlane Alabama West FIPS 0102 Feet
+esri:102631;NAD 1983 StatePlane Alaska 1 FIPS 5001 Feet
+esri:102632;NAD 1983 StatePlane Alaska 2 FIPS 5002 Feet
+esri:102633;NAD 1983 StatePlane Alaska 3 FIPS 5003 Feet
+esri:102634;NAD 1983 StatePlane Alaska 4 FIPS 5004 Feet
+esri:102635;NAD 1983 StatePlane Alaska 5 FIPS 5005 Feet
+esri:102636;NAD 1983 StatePlane Alaska 6 FIPS 5006 Feet
+esri:102637;NAD 1983 StatePlane Alaska 7 FIPS 5007 Feet
+esri:102638;NAD 1983 StatePlane Alaska 8 FIPS 5008 Feet
+esri:102639;NAD 1983 StatePlane Alaska 9 FIPS 5009 Feet
+esri:102640;NAD 1983 StatePlane Alaska 10 FIPS 5010 Feet
+esri:102641;NAD 1983 StatePlane California I FIPS 0401 Feet
+esri:102642;NAD 1983 StatePlane California II FIPS 0402 Feet
+esri:102643;NAD 1983 StatePlane California III FIPS 0403 Feet
+esri:102644;NAD 1983 StatePlane California IV FIPS 0404 Feet
+esri:102645;NAD 1983 StatePlane California V FIPS 0405 Feet
+esri:102646;NAD 1983 StatePlane California VI FIPS 0406 Feet
+esri:102648;NAD 1983 StatePlane Arizona East FIPS 0201 Feet
+esri:102649;NAD 1983 StatePlane Arizona Central FIPS 0202 Feet
+esri:102650;NAD 1983 StatePlane Arizona West FIPS 0203 Feet
+esri:102651;NAD 1983 StatePlane Arkansas North FIPS 0301 Feet
+esri:102652;NAD 1983 StatePlane Arkansas South FIPS 0302 Feet
+esri:102653;NAD 1983 StatePlane Colorado North FIPS 0501 Feet
+esri:102654;NAD 1983 StatePlane Colorado Central FIPS 0502 Feet
+esri:102655;NAD 1983 StatePlane Colorado South FIPS 0503 Feet
+esri:102656;NAD 1983 StatePlane Connecticut FIPS 0600 Feet
+esri:102657;NAD 1983 StatePlane Delaware FIPS 0700 Feet
+esri:102658;NAD 1983 StatePlane Florida East FIPS 0901 Feet
+esri:102659;NAD 1983 StatePlane Florida West FIPS 0902 Feet
+esri:102660;NAD 1983 StatePlane Florida North FIPS 0903 Feet
+esri:102661;NAD 1983 StatePlane Hawaii 1 FIPS 5101 Feet
+esri:102662;NAD 1983 StatePlane Hawaii 2 FIPS 5102 Feet
+esri:102663;NAD 1983 StatePlane Hawaii 3 FIPS 5103 Feet
+esri:102664;NAD 1983 StatePlane Hawaii 4 FIPS 5104 Feet
+esri:102665;NAD 1983 StatePlane Hawaii 5 FIPS 5105 Feet
+esri:102666;NAD 1983 StatePlane Georgia East FIPS 1001 Feet
+esri:102667;NAD 1983 StatePlane Georgia West FIPS 1002 Feet
+esri:102668;NAD 1983 StatePlane Idaho East FIPS 1101 Feet
+esri:102669;NAD 1983 StatePlane Idaho Central FIPS 1102 Feet
+esri:102670;NAD 1983 StatePlane Idaho West FIPS 1103 Feet
+esri:102671;NAD 1983 StatePlane Illinois East FIPS 1201 Feet
+esri:102672;NAD 1983 StatePlane Illinois West FIPS 1202 Feet
+esri:102673;NAD 1983 StatePlane Indiana East FIPS 1301 Feet
+esri:102674;NAD 1983 StatePlane Indiana West FIPS 1302 Feet
+esri:102675;NAD 1983 StatePlane Iowa North FIPS 1401 Feet
+esri:102676;NAD 1983 StatePlane Iowa South FIPS 1402 Feet
+esri:102677;NAD 1983 StatePlane Kansas North FIPS 1501 Feet
+esri:102678;NAD 1983 StatePlane Kansas South FIPS 1502 Feet
+esri:102679;NAD 1983 StatePlane Kentucky North FIPS 1601 Feet
+esri:102680;NAD 1983 StatePlane Kentucky South FIPS 1602 Feet
+esri:102681;NAD 1983 StatePlane Louisiana North FIPS 1701 Feet
+esri:102682;NAD 1983 StatePlane Louisiana South FIPS 1702 Feet
+esri:102683;NAD 1983 StatePlane Maine East FIPS 1801 Feet
+esri:102684;NAD 1983 StatePlane Maine West FIPS 1802 Feet
+esri:102685;NAD 1983 StatePlane Maryland FIPS 1900 Feet
+esri:102686;NAD 1983 StatePlane Massachusetts Mainland FIPS 2001 Feet
+esri:102687;NAD 1983 StatePlane Massachusetts Island FIPS 2002 Feet
+esri:102688;NAD 1983 StatePlane Michigan North FIPS 2111 Feet
+esri:102689;NAD 1983 StatePlane Michigan Central FIPS 2112 Feet
+esri:102690;NAD 1983 StatePlane Michigan South FIPS 2113 Feet
+esri:102691;NAD 1983 StatePlane Minnesota North FIPS 2201 Feet
+esri:102692;NAD 1983 StatePlane Minnesota Central FIPS 2202 Feet
+esri:102693;NAD 1983 StatePlane Minnesota South FIPS 2203 Feet
+esri:102694;NAD 1983 StatePlane Mississippi East FIPS 2301 Feet
+esri:102695;NAD 1983 StatePlane Mississippi West FIPS 2302 Feet
+esri:102696;NAD 1983 StatePlane Missouri East FIPS 2401 Feet
+esri:102697;NAD 1983 StatePlane Missouri Central FIPS 2402 Feet
+esri:102698;NAD 1983 StatePlane Missouri West FIPS 2403 Feet
+esri:102700;NAD 1983 StatePlane Montana FIPS 2500 Feet
+esri:102704;NAD 1983 StatePlane Nebraska FIPS 2600 Feet
+esri:102707;NAD 1983 StatePlane Nevada East FIPS 2701 Feet
+esri:102708;NAD 1983 StatePlane Nevada Central FIPS 2702 Feet
+esri:102709;NAD 1983 StatePlane Nevada West FIPS 2703 Feet
+esri:102710;NAD 1983 StatePlane New Hampshire FIPS 2800 Feet
+esri:102711;NAD 1983 StatePlane New Jersey FIPS 2900 Feet
+esri:102712;NAD 1983 StatePlane New Mexico East FIPS 3001 Feet
+esri:102713;NAD 1983 StatePlane New Mexico Central FIPS 3002 Feet
+esri:102714;NAD 1983 StatePlane New Mexico West FIPS 3003 Feet
+esri:102715;NAD 1983 StatePlane New York East FIPS 3101 Feet
+esri:102716;NAD 1983 StatePlane New York Central FIPS 3102 Feet
+esri:102717;NAD 1983 StatePlane New York West FIPS 3103 Feet
+esri:102718;NAD 1983 StatePlane New York Long Island FIPS 3104 Feet
+esri:102719;NAD 1983 StatePlane North Carolina FIPS 3200 Feet
+esri:102720;NAD 1983 StatePlane North Dakota North FIPS 3301 Feet
+esri:102721;NAD 1983 StatePlane North Dakota South FIPS 3302 Feet
+esri:102722;NAD 1983 StatePlane Ohio North FIPS 3401 Feet
+esri:102723;NAD 1983 StatePlane Ohio South FIPS 3402 Feet
+esri:102724;NAD 1983 StatePlane Oklahoma North FIPS 3501 Feet
+esri:102725;NAD 1983 StatePlane Oklahoma South FIPS 3502 Feet
+esri:102726;NAD 1983 StatePlane Oregon North FIPS 3601 Feet
+esri:102727;NAD 1983 StatePlane Oregon South FIPS 3602 Feet
+esri:102728;NAD 1983 StatePlane Pennsylvania North FIPS 3701 Feet
+esri:102729;NAD 1983 StatePlane Pennsylvania South FIPS 3702 Feet
+esri:102730;NAD 1983 StatePlane Rhode Island FIPS 3800 Feet
+esri:102733;NAD 1983 StatePlane South Carolina FIPS 3900 Feet
+esri:102734;NAD 1983 StatePlane South Dakota North FIPS 4001 Feet
+esri:102735;NAD 1983 StatePlane South Dakota South FIPS 4002 Feet
+esri:102736;NAD 1983 StatePlane Tennessee FIPS 4100 Feet
+esri:102737;NAD 1983 StatePlane Texas North FIPS 4201 Feet
+esri:102738;NAD 1983 StatePlane Texas North Central FIPS 4202 Feet
+esri:102739;NAD 1983 StatePlane Texas Central FIPS 4203 Feet
+esri:102740;NAD 1983 StatePlane Texas South Central FIPS 4204 Feet
+esri:102741;NAD 1983 StatePlane Texas South FIPS 4205 Feet
+esri:102742;NAD 1983 StatePlane Utah North FIPS 4301 Feet
+esri:102743;NAD 1983 StatePlane Utah Central FIPS 4302 Feet
+esri:102744;NAD 1983 StatePlane Utah South FIPS 4303 Feet
+esri:102745;NAD 1983 StatePlane Vermont FIPS 4400 Feet
+esri:102746;NAD 1983 StatePlane Virginia North FIPS 4501 Feet
+esri:102747;NAD 1983 StatePlane Virginia South FIPS 4502 Feet
+esri:102748;NAD 1983 StatePlane Washington North FIPS 4601 Feet
+esri:102749;NAD 1983 StatePlane Washington South FIPS 4602 Feet
+esri:102750;NAD 1983 StatePlane West Virginia North FIPS 4701 Feet
+esri:102751;NAD 1983 StatePlane West Virginia South FIPS 4702 Feet
+esri:102752;NAD 1983 StatePlane Wisconsin North FIPS 4801 Feet
+esri:102753;NAD 1983 StatePlane Wisconsin Central FIPS 4802 Feet
+esri:102754;NAD 1983 StatePlane Wisconsin South FIPS 4803 Feet
+esri:102755;NAD 1983 StatePlane Wyoming East FIPS 4901 Feet
+esri:102756;NAD 1983 StatePlane Wyoming East Central FIPS 4902 Feet
+esri:102757;NAD 1983 StatePlane Wyoming West Central FIPS 4903 Feet
+esri:102758;NAD 1983 StatePlane Wyoming West FIPS 4904 Feet
+epsg:2205;NAD83 / Kentucky North
+epsg:2222;NAD83 / Arizona East (ft)
+epsg:2223;NAD83 / Arizona Central (ft)
+epsg:2224;NAD83 / Arizona West (ft)
+epsg:2225;NAD83 / California zone 1 (ftUS)
+epsg:2226;NAD83 / California zone 2 (ftUS)
+epsg:2227;NAD83 / California zone 3 (ftUS)
+epsg:2228;NAD83 / California zone 4 (ftUS)
+epsg:2229;NAD83 / California zone 5 (ftUS)
+epsg:2230;NAD83 / California zone 6 (ftUS)
+epsg:2231;NAD83 / Colorado North (ftUS)
+epsg:2232;NAD83 / Colorado Central (ftUS)
+epsg:2233;NAD83 / Colorado South (ftUS)
+epsg:2234;NAD83 / Connecticut (ftUS)
+epsg:2235;NAD83 / Delaware (ftUS)
+epsg:2236;NAD83 / Florida East (ftUS)
+epsg:2237;NAD83 / Florida West (ftUS)
+epsg:2238;NAD83 / Florida North (ftUS)
+epsg:2239;NAD83 / Georgia East (ftUS)
+epsg:2240;NAD83 / Georgia West (ftUS)
+epsg:2241;NAD83 / Idaho East (ftUS)
+epsg:2242;NAD83 / Idaho Central (ftUS)
+epsg:2243;NAD83 / Idaho West (ftUS)
+epsg:2244;NAD83 / Indiana East (ftUS)
+epsg:2245;NAD83 / Indiana West (ftUS)
+epsg:2246;NAD83 / Kentucky North (ftUS)
+epsg:2247;NAD83 / Kentucky South (ftUS)
+epsg:2248;NAD83 / Maryland (ftUS)
+epsg:2249;NAD83 / Massachusetts Mainland (ftUS)
+epsg:2250;NAD83 / Massachusetts Island (ftUS)
+epsg:2251;NAD83 / Michigan North (ft)
+epsg:2252;NAD83 / Michigan Central (ft)
+epsg:2253;NAD83 / Michigan South (ft)
+epsg:2254;NAD83 / Mississippi East (ftUS)
+epsg:2255;NAD83 / Mississippi West (ftUS)
+epsg:2256;NAD83 / Montana (ft)
+epsg:2257;NAD83 / New Mexico East (ftUS)
+epsg:2258;NAD83 / New Mexico Central (ftUS)
+epsg:2259;NAD83 / New Mexico West (ftUS)
+epsg:2260;NAD83 / New York East (ftUS)
+epsg:2261;NAD83 / New York Central (ftUS)
+epsg:2262;NAD83 / New York West (ftUS)
+epsg:2263;NAD83 / New York Long Island (ftUS)
+epsg:2264;NAD83 / North Carolina (ftUS)
+epsg:2265;NAD83 / North Dakota North (ft)
+epsg:2266;NAD83 / North Dakota South (ft)
+epsg:2267;NAD83 / Oklahoma North (ftUS)
+epsg:2268;NAD83 / Oklahoma South (ftUS)
+epsg:2269;NAD83 / Oregon North (ft)
+epsg:2270;NAD83 / Oregon South (ft)
+epsg:2271;NAD83 / Pennsylvania North (ftUS)
+epsg:2272;NAD83 / Pennsylvania South (ftUS)
+epsg:2273;NAD83 / South Carolina (ft)
+epsg:2274;NAD83 / Tennessee (ftUS)
+epsg:2275;NAD83 / Texas North (ftUS)
+epsg:2276;NAD83 / Texas North Central (ftUS)
+epsg:2277;NAD83 / Texas Central (ftUS)
+epsg:2278;NAD83 / Texas South Central (ftUS)
+epsg:2279;NAD83 / Texas South (ftUS)
+epsg:2280;NAD83 / Utah North (ft)
+epsg:2281;NAD83 / Utah Central (ft)
+epsg:2282;NAD83 / Utah South (ft)
+epsg:2283;NAD83 / Virginia North (ftUS)
+epsg:2284;NAD83 / Virginia South (ftUS)
+epsg:2285;NAD83 / Washington North (ftUS)
+epsg:2286;NAD83 / Washington South (ftUS)
+epsg:2287;NAD83 / Wisconsin North (ftUS)
+epsg:2288;NAD83 / Wisconsin Central (ftUS)
+epsg:2289;NAD83 / Wisconsin South (ftUS)
+epsg:2759;NAD83(HARN) / Alabama East
+epsg:2760;NAD83(HARN) / Alabama West
+epsg:2761;NAD83(HARN) / Arizona East
+epsg:2762;NAD83(HARN) / Arizona Central
+epsg:2763;NAD83(HARN) / Arizona West
+epsg:2764;NAD83(HARN) / Arkansas North
+epsg:2765;NAD83(HARN) / Arkansas South
+epsg:2766;NAD83(HARN) / California zone 1
+epsg:2767;NAD83(HARN) / California zone 2
+epsg:2768;NAD83(HARN) / California zone 3
+epsg:2769;NAD83(HARN) / California zone 4
+epsg:2770;NAD83(HARN) / California zone 5
+epsg:2771;NAD83(HARN) / California zone 6
+epsg:2772;NAD83(HARN) / Colorado North
+epsg:2773;NAD83(HARN) / Colorado Central
+epsg:2774;NAD83(HARN) / Colorado South
+epsg:2775;NAD83(HARN) / Connecticut
+epsg:2776;NAD83(HARN) / Delaware
+epsg:2777;NAD83(HARN) / Florida East
+epsg:2778;NAD83(HARN) / Florida West
+epsg:2779;NAD83(HARN) / Florida North
+epsg:2780;NAD83(HARN) / Georgia East
+epsg:2781;NAD83(HARN) / Georgia West
+epsg:2782;NAD83(HARN) / Hawaii zone 1
+epsg:2783;NAD83(HARN) / Hawaii zone 2
+epsg:2784;NAD83(HARN) / Hawaii zone 3
+epsg:2785;NAD83(HARN) / Hawaii zone 4
+epsg:2786;NAD83(HARN) / Hawaii zone 5
+epsg:2787;NAD83(HARN) / Idaho East
+epsg:2788;NAD83(HARN) / Idaho Central
+epsg:2789;NAD83(HARN) / Idaho West
+epsg:2790;NAD83(HARN) / Illinois East
+epsg:2791;NAD83(HARN) / Illinois West
+epsg:2792;NAD83(HARN) / Indiana East
+epsg:2793;NAD83(HARN) / Indiana West
+epsg:2794;NAD83(HARN) / Iowa North
+epsg:2795;NAD83(HARN) / Iowa South
+epsg:2796;NAD83(HARN) / Kansas North
+epsg:2797;NAD83(HARN) / Kansas South
+epsg:2798;NAD83(HARN) / Kentucky North
+epsg:2799;NAD83(HARN) / Kentucky South
+epsg:2800;NAD83(HARN) / Louisiana North
+epsg:2801;NAD83(HARN) / Louisiana South
+epsg:2802;NAD83(HARN) / Maine East
+epsg:2803;NAD83(HARN) / Maine West
+epsg:2804;NAD83(HARN) / Maryland
+epsg:2805;NAD83(HARN) / Massachusetts Mainland
+epsg:2806;NAD83(HARN) / Massachusetts Island
+epsg:2807;NAD83(HARN) / Michigan North
+epsg:2808;NAD83(HARN) / Michigan Central
+epsg:2809;NAD83(HARN) / Michigan South
+epsg:2810;NAD83(HARN) / Minnesota North
+epsg:2811;NAD83(HARN) / Minnesota Central
+epsg:2812;NAD83(HARN) / Minnesota South
+epsg:2813;NAD83(HARN) / Mississippi East
+epsg:2814;NAD83(HARN) / Mississippi West
+epsg:2815;NAD83(HARN) / Missouri East
+epsg:2816;NAD83(HARN) / Missouri Central
+epsg:2817;NAD83(HARN) / Missouri West
+epsg:2818;NAD83(HARN) / Montana
+epsg:2819;NAD83(HARN) / Nebraska
+epsg:2820;NAD83(HARN) / Nevada East
+epsg:2821;NAD83(HARN) / Nevada Central
+epsg:2822;NAD83(HARN) / Nevada West
+epsg:2823;NAD83(HARN) / New Hampshire
+epsg:2824;NAD83(HARN) / New Jersey
+epsg:2825;NAD83(HARN) / New Mexico East
+epsg:2826;NAD83(HARN) / New Mexico Central
+epsg:2827;NAD83(HARN) / New Mexico West
+epsg:2828;NAD83(HARN) / New York East
+epsg:2829;NAD83(HARN) / New York Central
+epsg:2830;NAD83(HARN) / New York West
+epsg:2831;NAD83(HARN) / New York Long Island
+epsg:2832;NAD83(HARN) / North Dakota North
+epsg:2833;NAD83(HARN) / North Dakota South
+epsg:2834;NAD83(HARN) / Ohio North
+epsg:2835;NAD83(HARN) / Ohio South
+epsg:2836;NAD83(HARN) / Oklahoma North
+epsg:2837;NAD83(HARN) / Oklahoma South
+epsg:2838;NAD83(HARN) / Oregon North
+epsg:2839;NAD83(HARN) / Oregon South
+epsg:2840;NAD83(HARN) / Rhode Island
+epsg:2841;NAD83(HARN) / South Dakota North
+epsg:2842;NAD83(HARN) / South Dakota South
+epsg:2843;NAD83(HARN) / Tennessee
+epsg:2844;NAD83(HARN) / Texas North
+epsg:2845;NAD83(HARN) / Texas North Central
+epsg:2846;NAD83(HARN) / Texas Central
+epsg:2847;NAD83(HARN) / Texas South Central
+epsg:2848;NAD83(HARN) / Texas South
+epsg:2849;NAD83(HARN) / Utah North
+epsg:2850;NAD83(HARN) / Utah Central
+epsg:2851;NAD83(HARN) / Utah South
+epsg:2852;NAD83(HARN) / Vermont
+epsg:2853;NAD83(HARN) / Virginia North
+epsg:2854;NAD83(HARN) / Virginia South
+epsg:2855;NAD83(HARN) / Washington North
+epsg:2856;NAD83(HARN) / Washington South
+epsg:2857;NAD83(HARN) / West Virginia North
+epsg:2858;NAD83(HARN) / West Virginia South
+epsg:2859;NAD83(HARN) / Wisconsin North
+epsg:2860;NAD83(HARN) / Wisconsin Central
+epsg:2861;NAD83(HARN) / Wisconsin South
+epsg:2862;NAD83(HARN) / Wyoming East
+epsg:2863;NAD83(HARN) / Wyoming East Central
+epsg:2864;NAD83(HARN) / Wyoming West Central
+epsg:2865;NAD83(HARN) / Wyoming West
+epsg:2866;NAD83(HARN) / Puerto Rico and Virgin Is.
+epsg:2867;NAD83(HARN) / Arizona East (ft)
+epsg:2868;NAD83(HARN) / Arizona Central (ft)
+epsg:2869;NAD83(HARN) / Arizona West (ft)
+epsg:2870;NAD83(HARN) / California zone 1 (ftUS)
+epsg:2871;NAD83(HARN) / California zone 2 (ftUS)
+epsg:2872;NAD83(HARN) / California zone 3 (ftUS)
+epsg:2873;NAD83(HARN) / California zone 4 (ftUS)
+epsg:2874;NAD83(HARN) / California zone 5 (ftUS)
+epsg:2875;NAD83(HARN) / California zone 6 (ftUS)
+epsg:2876;NAD83(HARN) / Colorado North (ftUS)
+epsg:2877;NAD83(HARN) / Colorado Central (ftUS)
+epsg:2878;NAD83(HARN) / Colorado South (ftUS)
+epsg:2879;NAD83(HARN) / Connecticut (ftUS)
+epsg:2880;NAD83(HARN) / Delaware (ftUS)
+epsg:2881;NAD83(HARN) / Florida East (ftUS)
+epsg:2882;NAD83(HARN) / Florida West (ftUS)
+epsg:2883;NAD83(HARN) / Florida North (ftUS)
+epsg:2884;NAD83(HARN) / Georgia East (ftUS)
+epsg:2885;NAD83(HARN) / Georgia West (ftUS)
+epsg:2886;NAD83(HARN) / Idaho East (ftUS)
+epsg:2887;NAD83(HARN) / Idaho Central (ftUS)
+epsg:2888;NAD83(HARN) / Idaho West (ftUS)
+epsg:2889;NAD83(HARN) / Indiana East (ftUS)
+epsg:2890;NAD83(HARN) / Indiana West (ftUS)
+epsg:2891;NAD83(HARN) / Kentucky North (ftUS)
+epsg:2892;NAD83(HARN) / Kentucky South (ftUS)
+epsg:2893;NAD83(HARN) / Maryland (ftUS)
+epsg:2894;NAD83(HARN) / Massachusetts Mainland (ftUS)
+epsg:2895;NAD83(HARN) / Massachusetts Island (ftUS)
+epsg:2896;NAD83(HARN) / Michigan North (ft)
+epsg:2897;NAD83(HARN) / Michigan Central (ft)
+epsg:2898;NAD83(HARN) / Michigan South (ft)
+epsg:2899;NAD83(HARN) / Mississippi East (ftUS)
+epsg:2900;NAD83(HARN) / Mississippi West (ftUS)
+epsg:2901;NAD83(HARN) / Montana (ft)
+epsg:2902;NAD83(HARN) / New Mexico East (ftUS)
+epsg:2903;NAD83(HARN) / New Mexico Central (ftUS)
+epsg:2904;NAD83(HARN) / New Mexico West (ftUS)
+epsg:2905;NAD83(HARN) / New York East (ftUS)
+epsg:2906;NAD83(HARN) / New York Central (ftUS)
+epsg:2907;NAD83(HARN) / New York West (ftUS)
+epsg:2908;NAD83(HARN) / New York Long Island (ftUS)
+epsg:2909;NAD83(HARN) / North Dakota North (ft)
+epsg:2910;NAD83(HARN) / North Dakota South (ft)
+epsg:2911;NAD83(HARN) / Oklahoma North (ftUS)
+epsg:2912;NAD83(HARN) / Oklahoma South (ftUS)
+epsg:2913;NAD83(HARN) / Oregon North (ft)
+epsg:2914;NAD83(HARN) / Oregon South (ft)
+epsg:2915;NAD83(HARN) / Tennessee (ftUS)
+epsg:2916;NAD83(HARN) / Texas North (ftUS)
+epsg:2917;NAD83(HARN) / Texas North Central (ftUS)
+epsg:2918;NAD83(HARN) / Texas Central (ftUS)
+epsg:2919;NAD83(HARN) / Texas South Central (ftUS)
+epsg:2920;NAD83(HARN) / Texas South (ftUS)
+epsg:2921;NAD83(HARN) / Utah North (ft)
+epsg:2922;NAD83(HARN) / Utah Central (ft)
+epsg:2923;NAD83(HARN) / Utah South (ft)
+epsg:2924;NAD83(HARN) / Virginia North (ftUS)
+epsg:2925;NAD83(HARN) / Virginia South (ftUS)
+epsg:2926;NAD83(HARN) / Washington North (ftUS)
+epsg:2927;NAD83(HARN) / Washington South (ftUS)
+epsg:2928;NAD83(HARN) / Wisconsin North (ftUS)
+epsg:2929;NAD83(HARN) / Wisconsin Central (ftUS)
+epsg:2930;NAD83(HARN) / Wisconsin South (ftUS)
+epsg:2965;NAD83 / Indiana East (ftUS)
+epsg:2966;NAD83 / Indiana West (ftUS)
+epsg:2967;NAD83(HARN) / Indiana East (ftUS)
+epsg:2968;NAD83(HARN) / Indiana West (ftUS)
+epsg:2991;NAD83 / Oregon Lambert
+epsg:2992;NAD83 / Oregon Lambert (ft)
+epsg:2993;NAD83(HARN) / Oregon Lambert
+epsg:2994;NAD83(HARN) / Oregon Lambert (ft)
+epsg:3005;NAD83 / BC Albers
+epsg:3070;NAD83 / Wisconsin Transverse Mercator
+epsg:3071;NAD83(HARN) / Wisconsin Transverse Mercator
+epsg:3072;NAD83 / Maine CS2000 East
+epsg:3073;NAD83 / Maine CS2000 Central
+epsg:3074;NAD83 / Maine CS2000 West
+epsg:3075;NAD83(HARN) / Maine CS2000 East
+epsg:3076;NAD83(HARN) / Maine CS2000 Central
+epsg:3077;NAD83(HARN) / Maine CS2000 West
+epsg:3078;NAD83 / Michigan Oblique Mercator
+epsg:3079;NAD83(HARN) / Michigan Oblique Mercator
+epsg:3081;NAD83 / Texas State Mapping System
+epsg:3082;NAD83 / Texas Centric Lambert Conformal
+epsg:3083;NAD83 / Texas Centric Albers Equal Area
+epsg:3084;NAD83(HARN) / Texas Centric Lambert Conformal
+epsg:3085;NAD83(HARN) / Texas Centric Albers Equal Area
+epsg:3086;NAD83 / Florida GDL Albers
+epsg:3087;NAD83(HARN) / Florida GDL Albers
+epsg:3088;NAD83 / Kentucky Single Zone
+epsg:3089;NAD83 / Kentucky Single Zone (ftUS)
+epsg:3090;NAD83(HARN) / Kentucky Single Zone
+epsg:3091;NAD83(HARN) / Kentucky Single Zone (ftUS)
+epsg:3153;NAD83(CSRS) / BC Albers
+epsg:3310;NAD83 / California Albers
+epsg:3311;NAD83(HARN) / California Albers
+epsg:3338;NAD83 / Alaska Albers
+epsg:3347;NAD83 / Statistics Canada Lambert
+epsg:3348;NAD83(CSRS) / Statistics Canada Lambert
+epsg:3358;NAD83(HARN) / North Carolina
+epsg:3359;NAD83(HARN) / North Carolina (ftUS)
+epsg:3360;NAD83(HARN) / South Carolina
+epsg:3361;NAD83(HARN) / South Carolina (ft)
+epsg:3362;NAD83(HARN) / Pennsylvania North
+epsg:3363;NAD83(HARN) / Pennsylvania North (ftUS)
+epsg:3364;NAD83(HARN) / Pennsylvania South
+epsg:3365;NAD83(HARN) / Pennsylvania South (ftUS)
+epsg:3400;NAD83 / Alberta 10-TM (Forest)
+epsg:3401;NAD83 / Alberta 10-TM (Resource)
+epsg:3402;NAD83(CSRS) / Alberta 10-TM (Forest)
+epsg:3403;NAD83(CSRS) / Alberta 10-TM (Resource)
+epsg:3404;NAD83(HARN) / North Carolina (ftUS)
+epsg:3417;NAD83 / Iowa North (ft US)
+epsg:3418;NAD83 / Iowa South (ft US)
+epsg:3419;NAD83 / Kansas North (ft US)
+epsg:3420;NAD83 / Kansas South (ft US)
+epsg:3421;NAD83 / Nevada East (ft US)
+epsg:3422;NAD83 / Nevada Central (ft US)
+epsg:3423;NAD83 / Nevada West (ft US)
+epsg:3424;NAD83 / New Jersey (ft US)
+epsg:3425;NAD83(HARN) / Iowa North (ft US)
+epsg:3426;NAD83(HARN) / Iowa South (ft US)
+epsg:3427;NAD83(HARN) / Kansas North (ft US)
+epsg:3428;NAD83(HARN) / Kansas South (ft US)
+epsg:3429;NAD83(HARN) / Nevada East (ft US)
+epsg:3430;NAD83(HARN) / Nevada Central (ft US)
+epsg:3431;NAD83(HARN) / Nevada West (ft US)
+epsg:3432;NAD83(HARN) / New Jersey (ft US)
+epsg:3433;NAD83 / Arkansas North (ftUS)
+epsg:3434;NAD83 / Arkansas South (ftUS)
+epsg:3435;NAD83 / Illinois East (ftUS)
+epsg:3436;NAD83 / Illinois West (ftUS)
+epsg:3437;NAD83 / New Hampshire (ftUS)
+epsg:3438;NAD83 / Rhode Island (ftUS)
+epsg:3441;NAD83(HARN) / Arkansas North (ftUS)
+epsg:3442;NAD83(HARN) / Arkansas South (ftUS)
+epsg:3443;NAD83(HARN) / Illinois East (ftUS)
+epsg:3444;NAD83(HARN) / Illinois West (ftUS)
+epsg:3445;NAD83(HARN) / New Hampshire (ftUS)
+epsg:3446;NAD83(HARN) / Rhode Island (ftUS)
+epsg:3451;NAD83 / Louisiana North (ftUS)
+epsg:3452;NAD83 / Louisiana South (ftUS)
+epsg:3453;NAD83 / Louisiana Offshore (ftUS)
+epsg:3454;NAD83 / South Dakota North (ftUS)
+epsg:3455;NAD83 / South Dakota South (ftUS)
+epsg:3456;NAD83(HARN) / Louisiana North (ftUS)
+epsg:3457;NAD83(HARN) / Louisiana South (ftUS)
+epsg:3458;NAD83(HARN) / South Dakota North (ftUS)
+epsg:3459;NAD83(HARN) / South Dakota South (ftUS)
+epsg:3463;NAD83 / Maine CS2000 Central
+epsg:3464;NAD83(HARN) / Maine CS2000 Central
+epsg:3465;NAD83(NSRS2007) / Alabama East
+epsg:3466;NAD83(NSRS2007) / Alabama West
+epsg:3467;NAD83(NSRS2007) / Alaska Albers
+epsg:3468;NAD83(NSRS2007) / Alaska zone 1
+epsg:3469;NAD83(NSRS2007) / Alaska zone 2
+epsg:3470;NAD83(NSRS2007) / Alaska zone 3
+epsg:3471;NAD83(NSRS2007) / Alaska zone 4
+epsg:3472;NAD83(NSRS2007) / Alaska zone 5
+epsg:3473;NAD83(NSRS2007) / Alaska zone 6
+epsg:3474;NAD83(NSRS2007) / Alaska zone 7
+epsg:3475;NAD83(NSRS2007) / Alaska zone 8
+epsg:3476;NAD83(NSRS2007) / Alaska zone 9
+epsg:3477;NAD83(NSRS2007) / Alaska zone 10
+epsg:3478;NAD83(NSRS2007) / Arizona Central
+epsg:3479;NAD83(NSRS2007) / Arizona Central (ft)
+epsg:3480;NAD83(NSRS2007) / Arizona East
+epsg:3481;NAD83(NSRS2007) / Arizona East (ft)
+epsg:3482;NAD83(NSRS2007) / Arizona West
+epsg:3483;NAD83(NSRS2007) / Arizona West (ft)
+epsg:3484;NAD83(NSRS2007) / Arkansas North
+epsg:3485;NAD83(NSRS2007) / Arkansas North (ftUS)
+epsg:3486;NAD83(NSRS2007) / Arkansas South
+epsg:3487;NAD83(NSRS2007) / Arkansas South (ftUS)
+epsg:3488;NAD83(NSRS2007) / California Albers
+epsg:3489;NAD83(NSRS2007) / California zone 1
+epsg:3490;NAD83(NSRS2007) / California zone 1 (ftUS)
+epsg:3491;NAD83(NSRS2007) / California zone 2
+epsg:3492;NAD83(NSRS2007) / California zone 2 (ftUS)
+epsg:3493;NAD83(NSRS2007) / California zone 3
+epsg:3494;NAD83(NSRS2007) / California zone 3 (ftUS)
+epsg:3495;NAD83(NSRS2007) / California zone 4
+epsg:3496;NAD83(NSRS2007) / California zone 4 (ftUS)
+epsg:3497;NAD83(NSRS2007) / California zone 5
+epsg:3498;NAD83(NSRS2007) / California zone 5 (ftUS)
+epsg:3499;NAD83(NSRS2007) / California zone 6
+epsg:3500;NAD83(NSRS2007) / California zone 6 (ftUS)
+epsg:3501;NAD83(NSRS2007) / Colorado Central
+epsg:3502;NAD83(NSRS2007) / Colorado Central (ftUS)
+epsg:3503;NAD83(NSRS2007) / Colorado North
+epsg:3504;NAD83(NSRS2007) / Colorado North (ftUS)
+epsg:3505;NAD83(NSRS2007) / Colorado South
+epsg:3506;NAD83(NSRS2007) / Colorado South (ftUS)
+epsg:3507;NAD83(NSRS2007) / Connecticut
+epsg:3508;NAD83(NSRS2007) / Connecticut (ftUS)
+epsg:3509;NAD83(NSRS2007) / Delaware
+epsg:3510;NAD83(NSRS2007) / Delaware (ftUS)
+epsg:3511;NAD83(NSRS2007) / Florida East
+epsg:3512;NAD83(NSRS2007) / Florida East (ftUS)
+epsg:3513;NAD83(NSRS2007) / Florida GDL Albers
+epsg:3514;NAD83(NSRS2007) / Florida North
+epsg:3515;NAD83(NSRS2007) / Florida North (ftUS)
+epsg:3516;NAD83(NSRS2007) / Florida West
+epsg:3517;NAD83(NSRS2007) / Florida West (ftUS)
+epsg:3518;NAD83(NSRS2007) / Georgia East
+epsg:3519;NAD83(NSRS2007) / Georgia East (ftUS)
+epsg:3520;NAD83(NSRS2007) / Georgia West
+epsg:3521;NAD83(NSRS2007) / Georgia West (ftUS)
+epsg:3522;NAD83(NSRS2007) / Idaho Central
+epsg:3523;NAD83(NSRS2007) / Idaho Central (ftUS)
+epsg:3524;NAD83(NSRS2007) / Idaho East
+epsg:3525;NAD83(NSRS2007) / Idaho East (ftUS)
+epsg:3526;NAD83(NSRS2007) / Idaho West
+epsg:3527;NAD83(NSRS2007) / Idaho West (ftUS)
+epsg:3528;NAD83(NSRS2007) / Illinois East
+epsg:3529;NAD83(NSRS2007) / Illinois East (ftUS)
+epsg:3530;NAD83(NSRS2007) / Illinois West
+epsg:3531;NAD83(NSRS2007) / Illinois West (ftUS)
+epsg:3532;NAD83(NSRS2007) / Indiana East
+epsg:3533;NAD83(NSRS2007) / Indiana East (ftUS)
+epsg:3534;NAD83(NSRS2007) / Indiana West
+epsg:3535;NAD83(NSRS2007) / Indiana West (ftUS)
+epsg:3536;NAD83(NSRS2007) / Iowa North
+epsg:3537;NAD83(NSRS2007) / Iowa North (ft US)
+epsg:3538;NAD83(NSRS2007) / Iowa South
+epsg:3539;NAD83(NSRS2007) / Iowa South (ft US)
+epsg:3540;NAD83(NSRS2007) / Kansas North
+epsg:3541;NAD83(NSRS2007) / Kansas North (ft US)
+epsg:3542;NAD83(NSRS2007) / Kansas South
+epsg:3543;NAD83(NSRS2007) / Kansas South (ft US)
+epsg:3544;NAD83(NSRS2007) / Kentucky North
+epsg:3545;NAD83(NSRS2007) / Kentucky North (ftUS)
+epsg:3546;NAD83(NSRS2007) / Kentucky Single Zone
+epsg:3547;NAD83(NSRS2007) / Kentucky Single Zone (ftUS)
+epsg:3548;NAD83(NSRS2007) / Kentucky South
+epsg:3549;NAD83(NSRS2007) / Kentucky South (ftUS)
+epsg:3550;NAD83(NSRS2007) / Louisiana North
+epsg:3551;NAD83(NSRS2007) / Louisiana North (ftUS)
+epsg:3552;NAD83(NSRS2007) / Louisiana South
+epsg:3553;NAD83(NSRS2007) / Louisiana South (ftUS)
+epsg:3554;NAD83(NSRS2007) / Maine CS2000 Central
+epsg:3555;NAD83(NSRS2007) / Maine CS2000 East
+epsg:3556;NAD83(NSRS2007) / Maine CS2000 West
+epsg:3557;NAD83(NSRS2007) / Maine East
+epsg:3558;NAD83(NSRS2007) / Maine West
+epsg:3559;NAD83(NSRS2007) / Maryland
+epsg:3560;NAD83 / Utah North (ftUS)
+epsg:3566;NAD83 / Utah Central (ftUS)
+epsg:3567;NAD83 / Utah South (ftUS)
+epsg:3568;NAD83(HARN) / Utah North (ftUS)
+epsg:3569;NAD83(HARN) / Utah Central (ftUS)
+epsg:3570;NAD83(HARN) / Utah South (ftUS)
+epsg:3578;NAD83 / Yukon Albers
+epsg:3579;NAD83(CSRS) / Yukon Albers
+epsg:3580;NAD83 / NWT Lambert
+epsg:3581;NAD83(CSRS) / NWT Lambert
+epsg:3582;NAD83(NSRS2007) / Maryland (ftUS)
+epsg:3583;NAD83(NSRS2007) / Massachusetts Island
+epsg:3584;NAD83(NSRS2007) / Massachusetts Island (ftUS)
+epsg:3585;NAD83(NSRS2007) / Massachusetts Mainland
+epsg:3586;NAD83(NSRS2007) / Massachusetts Mainland (ftUS)
+epsg:3587;NAD83(NSRS2007) / Michigan Central
+epsg:3588;NAD83(NSRS2007) / Michigan Central (ft)
+epsg:3589;NAD83(NSRS2007) / Michigan North
+epsg:3590;NAD83(NSRS2007) / Michigan North (ft)
+epsg:3591;NAD83(NSRS2007) / Michigan Oblique Mercator
+epsg:3592;NAD83(NSRS2007) / Michigan South
+epsg:3593;NAD83(NSRS2007) / Michigan South (ft)
+epsg:3594;NAD83(NSRS2007) / Minnesota Central
+epsg:3595;NAD83(NSRS2007) / Minnesota North
+epsg:3596;NAD83(NSRS2007) / Minnesota South
+epsg:3597;NAD83(NSRS2007) / Mississippi East
+epsg:3598;NAD83(NSRS2007) / Mississippi East (ftUS)
+epsg:3599;NAD83(NSRS2007) / Mississippi West
+epsg:3600;NAD83(NSRS2007) / Mississippi West (ftUS)
+epsg:3601;NAD83(NSRS2007) / Missouri Central
+epsg:3602;NAD83(NSRS2007) / Missouri East
+epsg:3603;NAD83(NSRS2007) / Missouri West
+epsg:3604;NAD83(NSRS2007) / Montana
+epsg:3605;NAD83(NSRS2007) / Montana (ft)
+epsg:3606;NAD83(NSRS2007) / Nebraska
+epsg:3607;NAD83(NSRS2007) / Nevada Central
+epsg:3608;NAD83(NSRS2007) / Nevada Central (ft US)
+epsg:3609;NAD83(NSRS2007) / Nevada East
+epsg:3610;NAD83(NSRS2007) / Nevada East (ft US)
+epsg:3611;NAD83(NSRS2007) / Nevada West
+epsg:3612;NAD83(NSRS2007) / Nevada West (ft US)
+epsg:3613;NAD83(NSRS2007) / New Hampshire
+epsg:3614;NAD83(NSRS2007) / New Hampshire (ftUS)
+epsg:3615;NAD83(NSRS2007) / New Jersey
+epsg:3616;NAD83(NSRS2007) / New Jersey (ft US)
+epsg:3617;NAD83(NSRS2007) / New Mexico Central
+epsg:3618;NAD83(NSRS2007) / New Mexico Central (ftUS)
+epsg:3619;NAD83(NSRS2007) / New Mexico East
+epsg:3620;NAD83(NSRS2007) / New Mexico East (ftUS)
+epsg:3621;NAD83(NSRS2007) / New Mexico West
+epsg:3622;NAD83(NSRS2007) / New Mexico West (ftUS)
+epsg:3623;NAD83(NSRS2007) / New York Central
+epsg:3624;NAD83(NSRS2007) / New York Central (ftUS)
+epsg:3625;NAD83(NSRS2007) / New York East
+epsg:3626;NAD83(NSRS2007) / New York East (ftUS)
+epsg:3627;NAD83(NSRS2007) / New York Long Island
+epsg:3628;NAD83(NSRS2007) / New York Long Island (ftUS)
+epsg:3629;NAD83(NSRS2007) / New York West
+epsg:3630;NAD83(NSRS2007) / New York West (ftUS)
+epsg:3631;NAD83(NSRS2007) / North Carolina
+epsg:3632;NAD83(NSRS2007) / North Carolina (ftUS)
+epsg:3633;NAD83(NSRS2007) / North Dakota North
+epsg:3634;NAD83(NSRS2007) / North Dakota North (ft)
+epsg:3635;NAD83(NSRS2007) / North Dakota South
+epsg:3636;NAD83(NSRS2007) / North Dakota South (ft)
+epsg:3637;NAD83(NSRS2007) / Ohio North
+epsg:3638;NAD83(NSRS2007) / Ohio South
+epsg:3639;NAD83(NSRS2007) / Oklahoma North
+epsg:3640;NAD83(NSRS2007) / Oklahoma North (ftUS)
+epsg:3641;NAD83(NSRS2007) / Oklahoma South
+epsg:3642;NAD83(NSRS2007) / Oklahoma South (ftUS)
+epsg:3643;NAD83(NSRS2007) / Oregon Lambert
+epsg:3644;NAD83(NSRS2007) / Oregon Lambert (ft)
+epsg:3645;NAD83(NSRS2007) / Oregon North
+epsg:3646;NAD83(NSRS2007) / Oregon North (ft)
+epsg:3647;NAD83(NSRS2007) / Oregon South
+epsg:3648;NAD83(NSRS2007) / Oregon South (ft)
+epsg:3649;NAD83(NSRS2007) / Pennsylvania North
+epsg:3650;NAD83(NSRS2007) / Pennsylvania North (ftUS)
+epsg:3651;NAD83(NSRS2007) / Pennsylvania South
+epsg:3652;NAD83(NSRS2007) / Pennsylvania South (ftUS)
+epsg:3653;NAD83(NSRS2007) / Rhode Island
+epsg:3654;NAD83(NSRS2007) / Rhode Island (ftUS)
+epsg:3655;NAD83(NSRS2007) / South Carolina
+epsg:3656;NAD83(NSRS2007) / South Carolina (ft)
+epsg:3657;NAD83(NSRS2007) / South Dakota North
+epsg:3658;NAD83(NSRS2007) / South Dakota North (ftUS)
+epsg:3659;NAD83(NSRS2007) / South Dakota South
+epsg:3660;NAD83(NSRS2007) / South Dakota South (ftUS)
+epsg:3661;NAD83(NSRS2007) / Tennessee
+epsg:3662;NAD83(NSRS2007) / Tennessee (ftUS)
+epsg:3663;NAD83(NSRS2007) / Texas Central
+epsg:3664;NAD83(NSRS2007) / Texas Central (ftUS)
+epsg:3665;NAD83(NSRS2007) / Texas Centric Albers Equal Area
+epsg:3666;NAD83(NSRS2007) / Texas Centric Lambert Conformal
+epsg:3667;NAD83(NSRS2007) / Texas North
+epsg:3668;NAD83(NSRS2007) / Texas North (ftUS)
+epsg:3669;NAD83(NSRS2007) / Texas North Central
+epsg:3670;NAD83(NSRS2007) / Texas North Central (ftUS)
+epsg:3671;NAD83(NSRS2007) / Texas South
+epsg:3672;NAD83(NSRS2007) / Texas South (ftUS)
+epsg:3673;NAD83(NSRS2007) / Texas South Central
+epsg:3674;NAD83(NSRS2007) / Texas South Central (ftUS)
+epsg:3675;NAD83(NSRS2007) / Utah Central
+epsg:3676;NAD83(NSRS2007) / Utah Central (ft)
+epsg:3677;NAD83(NSRS2007) / Utah Central (ftUS)
+epsg:3678;NAD83(NSRS2007) / Utah North
+epsg:3679;NAD83(NSRS2007) / Utah North (ft)
+epsg:3680;NAD83(NSRS2007) / Utah North (ftUS)
+epsg:3681;NAD83(NSRS2007) / Utah South
+epsg:3682;NAD83(NSRS2007) / Utah South (ft)
+epsg:3683;NAD83(NSRS2007) / Utah South (ftUS)
+epsg:3684;NAD83(NSRS2007) / Vermont
+epsg:3685;NAD83(NSRS2007) / Virginia North
+epsg:3686;NAD83(NSRS2007) / Virginia North (ftUS)
+epsg:3687;NAD83(NSRS2007) / Virginia South
+epsg:3688;NAD83(NSRS2007) / Virginia South (ftUS)
+epsg:3689;NAD83(NSRS2007) / Washington North
+epsg:3690;NAD83(NSRS2007) / Washington North (ftUS)
+epsg:3691;NAD83(NSRS2007) / Washington South
+epsg:3692;NAD83(NSRS2007) / Washington South (ftUS)
+epsg:3693;NAD83(NSRS2007) / West Virginia North
+epsg:3694;NAD83(NSRS2007) / West Virginia South
+epsg:3695;NAD83(NSRS2007) / Wisconsin Central
+epsg:3696;NAD83(NSRS2007) / Wisconsin Central (ftUS)
+epsg:3697;NAD83(NSRS2007) / Wisconsin North
+epsg:3698;NAD83(NSRS2007) / Wisconsin North (ftUS)
+epsg:3699;NAD83(NSRS2007) / Wisconsin South
+epsg:3700;NAD83(NSRS2007) / Wisconsin South (ftUS)
+epsg:3701;NAD83(NSRS2007) / Wisconsin Transverse Mercator
+epsg:3702;NAD83(NSRS2007) / Wyoming East
+epsg:3703;NAD83(NSRS2007) / Wyoming East Central
+epsg:3704;NAD83(NSRS2007) / Wyoming West Central
+epsg:3705;NAD83(NSRS2007) / Wyoming West
+epsg:3728;NAD83(NSRS2007) / Ohio North (ftUS)
+epsg:3729;NAD83(NSRS2007) / Ohio South (ftUS)
+epsg:3730;NAD83(NSRS2007) / Wyoming East (ftUS)
+epsg:3731;NAD83(NSRS2007) / Wyoming East Central (ftUS)
+epsg:3732;NAD83(NSRS2007) / Wyoming West Central (ftUS)
+epsg:3733;NAD83(NSRS2007) / Wyoming West (ftUS)
+epsg:3734;NAD83 / Ohio North (ftUS)
+epsg:3735;NAD83 / Ohio South (ftUS)
+epsg:3736;NAD83 / Wyoming East (ftUS)
+epsg:3737;NAD83 / Wyoming East Central (ftUS)
+epsg:3738;NAD83 / Wyoming West Central (ftUS)
+epsg:3739;NAD83 / Wyoming West (ftUS)
+epsg:3753;NAD83(HARN) / Ohio North (ftUS)
+epsg:3754;NAD83(HARN) / Ohio South (ftUS)
+epsg:3755;NAD83(HARN) / Wyoming East (ftUS)
+epsg:3756;NAD83(HARN) / Wyoming East Central (ftUS)
+epsg:3757;NAD83(HARN) / Wyoming West Central (ftUS)
+epsg:3758;NAD83(HARN) / Wyoming West (ftUS)
+epsg:3759;NAD83 / Hawaii zone 3 (ftUS)
+epsg:3760;NAD83(HARN) / Hawaii zone 3 (ftUS)
+epsg:3775;NAD83 / Alberta 3TM ref merid 111 W
+epsg:3776;NAD83 / Alberta 3TM ref merid 114 W
+epsg:3777;NAD83 / Alberta 3TM ref merid 117 W
+epsg:3778;NAD83 / Alberta 3TM ref merid 120 W
+epsg:3779;NAD83(CSRS) / Alberta 3TM ref merid 111 W
+epsg:3780;NAD83(CSRS) / Alberta 3TM ref merid 114 W
+epsg:3781;NAD83(CSRS) / Alberta 3TM ref merid 117 W
+epsg:3782;NAD83(CSRS) / Alberta 3TM ref merid 120 W
+epsg:3798;NAD83 / MTQ Lambert
+epsg:3799;NAD83(CSRS) / MTQ Lambert
+epsg:3801;NAD83 / Alberta 3TM ref merid 120 W
+epsg:3802;NAD83(CSRS) / Alberta 3TM ref merid 120 W
+epsg:3814;NAD83 / Mississippi TM
+epsg:3815;NAD83(HARN) / Mississippi TM
+epsg:3816;NAD83(NSRS2007) / Mississippi TM
